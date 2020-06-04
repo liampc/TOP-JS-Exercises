@@ -1,0 +1,6 @@
+let myLibrary = [];
+
+function Book(){
+
+}
+
