@@ -1,0 +1,15 @@
+body {
+    font-size:14px;
+    color:navy;
+}
+
+h1 {
+    font-size: 2em; /* em means x2 of the current size */
+    font-weight:bolder;
+    font-family:Verdana;
+    font-variant: small-caps;
+}
+
+p {
+    line-height: 2;
+}
